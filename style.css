@@ -1,0 +1,44 @@
+.fondorojo{
+    background-color: red;
+}
+.fondoazul{
+    background-color: blue;
+}
+.borde{
+    border: dashed;
+}
+.borde{
+    letter-spacing: 5px;
+}
+#aumentarletra{
+    font-size: 50px;
+}
+#letraitalica{
+    font-style: italic;
+    font-size: 50px;
+}
+.apoyo{
+    text-align: center;
+}
+.mayuscula{
+    text-transform: uppercase;
+}
+.centrarimagen{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bandoimperio{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 100%
+}
+.bandorebelde{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: blue;
+    border-radius: 100%
+}
